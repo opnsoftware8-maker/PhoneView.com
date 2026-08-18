@@ -1,4 +1,4 @@
-import { Xiaomiphone } from "./phone/xioami"
+import { Xiaomiphone } from "./xioami"
 
 export const Allphone = {
   ...Xioamiphone,
